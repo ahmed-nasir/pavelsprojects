@@ -45,6 +45,10 @@ section{
 }
 .footer{
     height: 50px;
-    background-color: gray;
+    background-color: rgba(178, 190, 181,0.3);
     text-align: center;
+    padding-top: 10px;
+    color: black;
+    font-size: larger;
+    font: bold;
 }
