@@ -45,4 +45,6 @@ section{
 }
 .footer{
     height: 50px;
+    background-color: gray;
+    text-align: center;
 }
